@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 This is a public page to make google happy. It is housing for one of my Google Projects. Details below.
 
-<!--
-**ssaturn777/ssaturn777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Clipper Uploader
+A private tool that uploads my own videos to my own YouTube channels.
 
-Here are some ideas to get you started:
+What it does
+Clipper Uploader runs on my personal computer. It takes videos I've recorded and edited, and posts them to YouTube channels I own, on a schedule I set. It isn't offered to the public and has no other users.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How it uses Google data
+It uses the YouTube Data API to upload videos and set thumbnails on my channels.
+It reads basic channel details (channel name and ID) to confirm each upload goes to the right channel.
+Sign-in tokens are stored only on my computer. Nothing is sold, shared, or sent anywhere except to YouTube.
+Full details are in the privacy policy.
+
+Privacy policy YouTube Terms of Service
