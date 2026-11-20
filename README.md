@@ -1,10 +1,11 @@
-## Hi there 👋 This is a public page to make google happy. It is housing for one of my Google Projects. Details below.
+## Hi there 👋 This is a public page for the PersonalClipper. Details Below
 
-Clipper Uploader
+The Personal Clipper is:
+
 A private tool that uploads my own videos to my own YouTube channels.
 
 What it does
-Clipper Uploader runs on my personal computer. It takes videos I've recorded and edited, and posts them to YouTube channels I own, on a schedule I set. It isn't offered to the public and has no other users.
+PersonalClipper runs on my personal computer. It takes videos I've recorded and edited, and posts them to YouTube channels I own, on a schedule I set. It isn't offered to the public and has no other users.
 
 How it uses Google data
 It uses the YouTube Data API to upload videos and set thumbnails on my channels.
